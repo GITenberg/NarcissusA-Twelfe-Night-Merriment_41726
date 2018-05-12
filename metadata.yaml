@@ -1,0 +1,26 @@
+_repo: NarcissusA-Twelfe-Night-Merriment_41726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41726-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Lee, Margaret L.
+    birthdate: 1871
+    deathdate: 1955
+    gutenberg_agent_id: '41362'
+    url: http://www.gutenberg.org/2009/agents/41362
+description: ''
+gutenberg_issued: '2013-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: Narcissus, a Twelfe Night Merriment
+url: http://www.gutenberg.org/ebooks/41726
