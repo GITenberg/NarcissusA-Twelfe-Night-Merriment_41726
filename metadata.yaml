@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41362'
     url: http://www.gutenberg.org/2009/agents/41362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41726#NarcissusA-Twelfe-Night-Merriment
 gutenberg_issued: '2013-01-05'
 gutenberg_type: Text
 identifiers:
